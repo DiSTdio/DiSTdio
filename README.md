@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiSTdio
-- 👀 I’m interested in work and future of humanity
-- 🌱 I’m currently learning freecodecamp and almost everything that can get be a job :)
+- 👀 I’m interested in job and future of humanity
+- 🌱 I’m currently learning almost everything that can get me a job as frontend developer :)
 - 💞️ I’m looking to collaborate on intership
 
 
